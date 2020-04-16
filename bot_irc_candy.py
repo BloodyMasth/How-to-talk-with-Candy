@@ -9,7 +9,8 @@ import time
 """
 I share here this script that required a lot of effort to understand and make it a success. 
 I put it here in the hope of helping others to understand it. 
-However, I have modified it so as not to divulge the solution. 
+However, I have modified it so as not to divulge the solution.
+And personally I find that one the first challenge understood the other are rather simple.
 Good Luck 
 """
 
